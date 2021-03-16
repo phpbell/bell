@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "24282847a726f9974ed9e1b99c7e6a6a",
+    "content-hash": "132082ec0a0b96bc84b0915c3fbcb27f",
     "packages": [
         {
             "name": "bell/framework",
