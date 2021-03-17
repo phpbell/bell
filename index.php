@@ -1,4 +1,7 @@
 <?php
 $bell=require 'cfg.php';
-$bell->controller("index","🔔");
+$assetsHeader=$bell->plugin("assetsHeader");
+$dbInfo=$bell->model("info");
+$name="🔔";
+$bell->view('home',$name,$assetsHeader,$dbInfo);
 ?>
