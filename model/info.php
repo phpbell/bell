@@ -1,5 +1,5 @@
 <?php
 return function($db){
-    return $db()->info();
+    return $db->info();
 };
 ?>
