@@ -1,4 +1,4 @@
 <?php
-$bell=require './cfg.php';
+$bell=require './config.php';
 $bell->migrate();
 ?>

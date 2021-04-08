@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7eb03ac4a7859aa633b57cab9cc71071",
+    "content-hash": "5001ffc1645eb528c542c8db4e58838b",
     "packages": [
         {
             "name": "bell/framework",
-            "version": "v3.0.0",
+            "version": "v4.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpbell/framework.git",
-                "reference": "32ce6d43b459f0a90e2aa6246a6406cf3468c869"
+                "reference": "1f0010816c2988e1aba16ff655b566d80487a3f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpbell/framework/zipball/32ce6d43b459f0a90e2aa6246a6406cf3468c869",
-                "reference": "32ce6d43b459f0a90e2aa6246a6406cf3468c869",
+                "url": "https://api.github.com/repos/phpbell/framework/zipball/1f0010816c2988e1aba16ff655b566d80487a3f6",
+                "reference": "1f0010816c2988e1aba16ff655b566d80487a3f6",
                 "shasum": ""
             },
             "require": {
@@ -43,9 +43,9 @@
             "description": "Framework em PHP funcional com views em PHP puro e models com Medoo",
             "support": {
                 "issues": "https://github.com/phpbell/framework/issues",
-                "source": "https://github.com/phpbell/framework/tree/v3.0.0"
+                "source": "https://github.com/phpbell/framework/tree/v4.0.0"
             },
-            "time": "2021-03-18T11:28:56+00:00"
+            "time": "2021-04-08T19:25:26+00:00"
         },
         {
             "name": "catfan/medoo",

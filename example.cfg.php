@@ -10,8 +10,11 @@ $cfg=[
     ],
     'root'=>__DIR__,
     'showErrors'=>true,
-    'url'=>'http://public.local',
-    'localhost'=>'http://localhost/bell'
+    'site'=>[
+        'name'=>'Bell',
+        'theme'=>'default',
+        'url'=>'http://public.local/'
+    ]
 ];
 require __DIR__.'/vendor/autoload.php';
 return new Bell\Bell($cfg);
