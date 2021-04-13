@@ -13,7 +13,7 @@
     },
     "scripts": {
         "post-root-package-install": [
-            "@php -r \"file_exists('cfg.php') || copy('example.cfg.php', 'cfg.php');\""
+            "@php -r \"file_exists('cconfig.php') || copy('example.config.php', 'cfg.php');\""
         ]
     }
 }
